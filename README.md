@@ -1,7 +1,6 @@
 ## Hello, I'm Lucas! 👋
 
 - 💻 I’m a fullstack developer
-- 📚 Currently learning C# and .NET
 - 🎓 I’m also a Mechanical Engineer 
 - 📈 I’m a financial market enthusiast
 - 🌎 I love travelling and trying new foods
