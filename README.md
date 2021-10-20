@@ -42,9 +42,9 @@
 <br />
 <hr>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascandre)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascandre)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucascandre&count_private=true&show_icons=true)](https://github.com/lucascandre/github-readme-stats)
-<br /> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascandre&langs_count=6)](https://github.com/lucascandre/github-readme-stats)
