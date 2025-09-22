@@ -1,7 +1,7 @@
 ## Hello, I'm Lucas! 👋
 
 - 💻 I’m a fullstack developer
-- 📚 Currently learning Java
+- 📚 Node | Postgres | Mongo | Redis | AWS | Docker | React
 - 🎓 I’m also a Mechanical Engineer 
 - 📈 I’m a financial market enthusiast
 - 🌎 I love travelling and trying new foods
